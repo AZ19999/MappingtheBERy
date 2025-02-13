@@ -4,6 +4,20 @@ title: Home
 show-title: false
 ---
 
+# I am a title
+
+*I am words in italics*
+
+**I am bold text**
+
+***I am bolded italic text***
+
+[I am a link!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+![I am alt text](assets/img/bcds-logo.webp)
+
+---
+
 This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
 
 1. The project & general background
