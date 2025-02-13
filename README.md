@@ -1,12 +1,12 @@
-# jekyll-project-template
+# DHCapstone(working title)
 
-Write a tagline here!
+To be created
 
-By Your Name, Boston College
+By Alexander Zhu, Boston College
 
 ## About
 
-Put your project description here!
+This project will eventually exist, more to come!
 
 ## Files you need to edit
 
