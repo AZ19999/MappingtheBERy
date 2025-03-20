@@ -4,24 +4,22 @@ title: Home
 show-title: false
 ---
 
-# I am a title
-
-*I am words in italics*
-
-**I am bold text**
-
-***I am bolded italic text***
-
-[I am a link!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-![I am alt text](assets/img/bcds-logo.webp)
-
----
-
 This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
 
 1. The project & general background
 2. Who you are
+
+---
+
+# Project
+
+Trains and How people like the trains idk
+
+---
+
+# Who am I?
+
+I am Alexander Zhu, English MA student in his second year at Boston College
 
 ---
 
@@ -39,7 +37,23 @@ If you want to layout two images side by side, you can use Markdown's tables to 
 | ![BCDS Logo](assets/img/bcds-logo.webp) | ![BCDS Logo](assets/img/bcds-logo.webp) |
 | Caption 1 | Caption 2 |
 
+
+markdown examples here
+
+# I am a title
+
+*I am words in italics*
+
+**I am bold text**
+
+***I am bolded italic text***
+
+[I am a link!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+![I am alt text](assets/img/bcds-logo.webp)
+
 ---
+
 
 If you want a single image, center aligned... you have to use raw HTML... use this as a guide, and replace the filename with yours
 

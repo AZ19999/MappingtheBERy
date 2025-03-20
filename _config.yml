@@ -11,18 +11,18 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # nav bar settings and links
 nav-menu:
-  - title: Home
+  - title: Map
+    link: map
+  - title: About
     link: index
-  - title: Background
+  - title: Methodology
     submenu:
-      - title: Previous Scholarship
-        link: scholarship
-      - title: Source & Methods
-        link: methods
+      - title: Mapping Methodology
+        link: mapmethods
+      - title: Sentiment Analysis Methodology
+        link: sentimentmethods
   - title: Findings
     link: findings
-  - title: Reflections
-    link: reflections
   - title: Bibliography
     link: bibliography
 
