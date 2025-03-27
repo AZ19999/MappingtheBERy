@@ -3,60 +3,17 @@ layout: page
 title: Home
 show-title: false
 ---
+# Project Information(not final)
 
-This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
-
-1. The project & general background
-2. Who you are
-
----
-
-# Project
-
-Trains and How people like the trains idk
+This project is a historical mapping of the Boston Elevated Railway, the company that would turn into the Metropolitan Transit Authority and then eventually the Massachussetts Bay Transportation Authority. The large map has been assembled to see the expansion and evololution of the companhy from an independent collection of rail and coach lines into a unified body that would provide affordable intercity transport for the citizens of Boston. In addition to having a visualization of Boston's Rail history, There is also an accompanying sentiment and financial(pending) analysis to help showcase the more real effects of the rail expansion. With this, we can see where the growth has been favorable and where the current transit authority needs to help shore up issues that have carried over from the 20th century.
 
 ---
 
 # Who am I?
 
-I am Alexander Zhu, English MA student in his second year at Boston College
-
+I am Alexander Zhu, A second year MA student at Boston College(as of spring 2025). I'm an Asian American from the New England Area living between Massachussetts, Rhode Island, and Connecticut. I did my undergraduate studies at Brandeis University.
 ---
 
-Consult the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for Help on using Markdown!
+# Why this project?
 
----
-
-Below are a couple of ways you might include images in your site. The simplest is to use Markdown's image method. Use a !, then put the alt text you want inside of square brackets, and the link inside of parentheses.
-![This is the alt text that will appear on mouseover](assets/img/bcds-logo.webp)
-
----
-
-If you want to layout two images side by side, you can use Markdown's tables to organize them into a table of two or more columns... you can add rows for captions if you want.
-
-| ![BCDS Logo](assets/img/bcds-logo.webp) | ![BCDS Logo](assets/img/bcds-logo.webp) |
-| Caption 1 | Caption 2 |
-
-
-markdown examples here
-
-# I am a title
-
-*I am words in italics*
-
-**I am bold text**
-
-***I am bolded italic text***
-
-[I am a link!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-![I am alt text](assets/img/bcds-logo.webp)
-
----
-
-
-If you want a single image, center aligned... you have to use raw HTML... use this as a guide, and replace the filename with yours
-
-<p align="center">
-    <img src="assets/img/bcds-logo.webp" />
-</p>
+ At Boston College, I hoped to pursue studies in Digital Humanities and this project has been a sort of culmination of all of that work. As a student who lives not on campus, the T has been a subtle, but important part of my school life. I ride it to school everyday and I've never really given it much thought. Last year, during the particular rough red line shutdowns as the new MBTA management tries to bring the T out of a state of disrepair and neglect, I began to think more about what being a rider of the T meant. This led me to making it the central topic of an archives class I took last semester. In this class, I hope to extend that work and create something that goes just a bit beyond the scope of that project.
