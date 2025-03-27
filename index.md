@@ -3,7 +3,7 @@ layout: page
 title: Home
 show-title: false
 ---
-# Project Information(not final)
+# Project Information
 
 This project is a historical mapping of the Boston Elevated Railway, the company that would turn into the Metropolitan Transit Authority and then eventually the Massachussetts Bay Transportation Authority. The large map has been assembled to see the expansion and evololution of the companhy from an independent collection of rail and coach lines into a unified body that would provide affordable intercity transport for the citizens of Boston. In addition to having a visualization of Boston's Rail history, There is also an accompanying sentiment and financial(pending) analysis to help showcase the more real effects of the rail expansion. With this, we can see where the growth has been favorable and where the current transit authority needs to help shore up issues that have carried over from the 20th century.
 
@@ -11,7 +11,8 @@ This project is a historical mapping of the Boston Elevated Railway, the company
 
 # Who am I?
 
-I am Alexander Zhu, A second year MA student at Boston College(as of spring 2025). I'm an Asian American from the New England Area living between Massachussetts, Rhode Island, and Connecticut. I did my undergraduate studies at Brandeis University.
+I am Alexander Zhu, A second year MA student at Boston College(as of spring 2025). I'm an Asian American from the New England Area living between Massachussetts, Rhode Island, and Connecticut. I did my undergraduate studies at Brandeis University. Currently I am pursuing my interestes in Digital Humanities and Contemporary Literature.
+
 ---
 
 # Why this project?

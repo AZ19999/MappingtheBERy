@@ -1,12 +1,10 @@
-# DHCapstone(working title)
-
-To be created
+# Mapping the BERy
 
 By Alexander Zhu, Boston College
 
 ## About
 
-This project will eventually exist, more to come!
+Part of the DH capstone class at Boston College
 
 ## Files you need to edit
 
