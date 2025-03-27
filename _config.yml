@@ -3,8 +3,8 @@ baseurl: "/DHCapstone" # the name of your github repo
 url: "https://az19999.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "To be named..."
-description: To be described @ Boston College
+title: "Mapping the Boston Elevated Railway"
+description: Looking at Boston's Locomotive History @ Boston College
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
@@ -17,9 +17,9 @@ nav-menu:
     link: index
   - title: Methodology
     submenu:
-      - title: Mapping Methodology
+      - title: Mapping
         link: mapmethods
-      - title: Sentiment Analysis Methodology
+      - title: Sentiment Analysis
         link: sentimentmethods
   - title: Findings
     link: findings
