@@ -18,3 +18,5 @@ I am Alexander Zhu, A second year MA student at Boston College(as of spring 2025
 # Why this project?
 
  At Boston College, I hoped to pursue studies in Digital Humanities and this project has been a sort of culmination of all of that work. As a student who lives not on campus, the T has been a subtle, but important part of my school life. I ride it to school everyday and I've never really given it much thought. Last year, during the particular rough red line shutdowns as the new MBTA management tries to bring the T out of a state of disrepair and neglect, I began to think more about what being a rider of the T meant. This led me to making it the central topic of an archives class I took last semester. In this class, I hope to extend that work and create something that goes just a bit beyond the scope of that project.
+
+Previous Project: [text](https://storymaps.arcgis.com/stories/5bdd9dba42cb458e9ac12d18d44df000)
