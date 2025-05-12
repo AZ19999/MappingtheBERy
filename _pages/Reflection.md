@@ -18,10 +18,11 @@ Previous Project: [text](https://storymaps.arcgis.com/stories/5bdd9dba42cb458e9a
 ## Research
 
 ## Mapping
-Having already used ARCGIS for my previous MBTA related project, I was already familiar with using it to setup maps. The process was pretty smooth and 
-
-One of the most interesting spots to be in during the mapping process was seeing what all maps agreed and disagreed on. Generally
+Having already used ARCGIS for my previous MBTA related project, I was already familiar with using it to setup maps. The process was pretty smooth and refining my points became a pretty simple thing to work on while ProQuest TDM was processing datasets. One
 
 ## Sentiment Analysis
+This was admittedly the most unfamiliar part of the process for me. I had never done any work with Sentiment analysis or super specific text mining coming into the project so this was definitely the most interesting and difficult aspect of the project. The first thing that came 
 
 ## Conclusion and Next Steps
+
+Something that cam

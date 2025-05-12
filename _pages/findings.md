@@ -33,4 +33,10 @@ Car #393 was returned to service but most operators refused to run it; it was co
 
 ## The move to Trackless Trolleys
 
-On April 11th, 1936, a trolley route from Harvard to Lechemere was replaced by the first ever Trackless Trolley route.
+On April 11th, 1936, a trolley route from Harvard to Lechemere was replaced by the first ever Trackless Trolley route. A
+
+A trackless trolley, also known as a trolleybus, was an electric-powered transit vehicle used by the Boston Elevated Railway (BERy) in the mid-20th century. Unlike traditional streetcars, trackless trolleys operated without rails, drawing electricity from overhead wires via dual trolley poles. This system provided the flexibility of a bus while maintaining the environmental benefits of electric propulsion.
+
+Boston introduced trackless trolleys in the 1930s and 1940s, converting several streetcar lines to this mode of transportation. These vehicles were particularly useful in areas where laying tracks was impractical or costly. They were known for their smooth acceleration, quiet operation, and reduced emissions compared to gasoline-powered buses. The Pullman-Standard 8361, one of Boston’s trackless trolleys, was preserved at the Seashore Trolley Museum, showcasing the city's transit history.
+
+Trackless trolleys remained a staple of Boston’s transit system for decades, serving routes in Cambridge, Watertown, and Belmont before being phased out in favor of modern buses. Their legacy continues through historical preservation efforts and discussions about sustainable urban transit.

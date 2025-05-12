@@ -13,4 +13,6 @@ In addition to providing Sentiment Analysis for the entire period of time, three
 
 # Who am I?
 
+![alt text](AlexPicture.png)
+
 I am Alexander Zhu, A second year MA student at Boston College. I'm an Asian American from the New England Area living between Massachussetts, Rhode Island, and Connecticut. I did my undergraduate studies at Brandeis University. My two primary interests coming into this program are Digital Humanities and Contemporary literature, specficically fiction.
