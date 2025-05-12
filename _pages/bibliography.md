@@ -5,10 +5,10 @@ permalink: bibliography
 show-title: true
 ---
 
-map of 1850
+map of 1850: https://bostoncollege.maps.arcgis.com/home/item.html?id=1877c29890304bd1a4e79dc2ed184526
     -Stephen De Riel
 
-MBTA data
+MBTA data: https://www.mass.gov/info-details/massgis-data-mbta-rapid-transit
 
 burns stuff
     -All maps
@@ -16,6 +16,8 @@ burns stuff
     -Transfer at park STreet under
     -west end History Book
 
-ProQuest for specific neewspapers articles that helped build stories
+ProQuest for specific neewspapers articles that helped build stories: https://tdmstudio.proquest.com/home
 
-STreet Car Article
+Street Car Article: https://www.bostonglobe.com/metro/2016/10/29/trolleydisaster/c451CX1qx9SpPo5tJAupFP/story.html
+
+Picture of BERy Street Car: https://www.streetcar.org/bostons-back-business/
