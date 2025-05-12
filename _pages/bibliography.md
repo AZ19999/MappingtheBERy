@@ -5,13 +5,17 @@ permalink: bibliography
 show-title: true
 ---
 
-Put your project bibliography here, both digital and traditional. Use bullet or numbered lists.
-
 map of 1850
+    -Stephen De Riel
 
 MBTA data
 
 burns stuff
-    -map guidebook
+    -All maps
     -streetcar lines of the hub
-    -west end guidebook
+    -Transfer at park STreet under
+    -west end History Book
+
+ProQuest for specific neewspapers articles that helped build stories
+
+STreet Car Article

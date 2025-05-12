@@ -1,28 +1,30 @@
 # change the followings to match your Github username and repo name
-baseurl: "/DHCapstone" # the name of your github repo
+baseurl: "/MappingMBTA" # the name of your github repo
 url: "https://az19999.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "Mapping the Boston Elevated Railway"
-description: Looking at Boston's Locomotive History @ Boston College
+title: "Mapping the MBTA's History"
+description: Looking at the history of America's Oldest Public Transportation System @ Boston College
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # nav bar settings and links
 nav-menu:
+  - title: About  
+    link: index
   - title: Map
     link: map
-  - title: About
-    link: index
+  - title: Findings
+    link: findings
   - title: Methodology
     submenu:
       - title: Mapping
         link: mapmethods
       - title: Sentiment Analysis
         link: sentimentmethods
-  - title: Findings
-    link: findings
+  - title: Reflection
+    link: Reflection
   - title: Bibliography
     link: bibliography
 

@@ -5,7 +5,21 @@ permalink: mapmethods
 show-title: true
 ---
 
-I made maps using science and magic!
+# Data Sources
 
+# The Tools
 
-collected maps and station lists from burns, GIS to create the map layers based off of my findings
+## ARCGIS
+ArcGIS Online is a cloud-based platform that allows users to utilize the ARCGIS toolset exclusively in a browser. The main feature I focused on was the ability to create an interactive web map using the data that I had gathered. The tool allows users to plot points and then connect them using lines all through a sketch layer. While the tool does allow for pattern recognition, trend modeling, and advanced calculations, they were not needed to help complete the project.
+
+## Map Warper
+
+Map Warper is a free, open-source tool designed for georectifying and georeferencing historical maps and images. A lot of the maps I gathered were made for the purpose of readability and clarity rather than being to scale geographically. Map Warper allows users to upload their own maps and create rectified versions which are aligned with real world coordinates. Doing so would then allow me to import the maps into ArcGIS to use as layers to help create my sketch layers in the end product.
+
+# The Method
+
+The first step was to gather a large amount of maps. This involved using both online archives as well as the Burns Library directly. I tried to prioritize maps found by the burns as they could easily provide high quality scans as well as already having physical copies as maps I already found online. Initially, I thought I would only need one map to base my sketch layer off of. I quickly learned that a lot of maps, especially during the early years, didn't necessarily agree with each other. It was then important to collect a large collection of maps so that I could see what they all agreed and disagree on. Based on that, I could use the multiple maps to populate my layer with all of the stations.
+
+As mentioned in the map warper section, a lot of maps made for public transporation networks aren't built to proper geographic scale. While it does make them more readable to the passengers, it makes them unusable in their current state for the project. To fix this, I would import each map to map warper, match points on that map to a real GPS map, then the website would stretch and warp the map image to fit directly on top of said GPS map. The website then allows you to either export the map as an image or as a file with coordinate data which could be imported directly as an image layer into ArcGIS.
+
+After all of my maps were imported, I would then layer them on top of the map one by one and 
