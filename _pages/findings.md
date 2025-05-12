@@ -9,9 +9,11 @@ show-title: true
 
 ## Consolidation
 
-![Section of West End Street History book discussing Consolidation](assets/img/Consolidation.png)
+![Henry Melville Whitney, President of the West End Street Company](../assets/img/HenryMelvilleWhitney.png)
 
 The first iteration of a unified public transport system in Boston was the West End Street Railway. A charter formed in the 1880s to provide service to parts of Western Boston and Brookline. They were formed at a time when four major railroads: Metropolitan, Cambridge, Consolidated, and South Boston each controlled a major corner of Boston. Instead of attempting to work within the pre-existing network of companies Henry Melville Whitney, president of the company at the time, set out to purchase controlling shares in all major rail companies operating in Boston. In November 1887, West End Street Railway would consolidate all of the streetcar and railroads in Boston under their company. This made them the largest Railroad company in the United States at the time operating over 200 miles of track across all of Boston.
+
+![Section of West End Street History book discussing smaller companies that became part of West End](../assets/img/WestEndIndividual.png)
 
 Initial public reaction to consolidation to the consolidated company was mixed. Detractors raised concerns that it would set the stage for a monopoly. Proponents, however, argued that it ended the inefficiencies of competing railways, which were blamed for high levels of congestion and blockades on Boston's streets, and improving service as a result.[10] In remarks to stockholders shortly after the merger, Whitney defended consolidation, saying, "the blockades occurring on the principal thoroughfares" in Boston had reached the point of requiring a remedy, and that "if [the West End] had not taken hold of this matter the city would surely have done something [instead].
 
@@ -19,7 +21,7 @@ Initial public reaction to consolidation to the consolidated company was mixed. 
 
 ## Street Car 46
 
-![Street Car 393 being raied out of a river](assets/img/StreetCar393.png)
+![Street Car 393 being raied out of a river](../assets/img/StreetCar393.png)
 
 Street Car 46 refers to the Summer Street Bridge Disaster which occured on November 7, 1916. Street Car #393, operated by the Boston Elevated Railway, was 
 
@@ -39,7 +41,7 @@ Car #393 was returned to service but most operators refused to run it; it was co
 
 ## The move to Trackless Trolleys
 
-![Street Car 393 being raied out of a river](assets/img/TracklessTrolley.png)
+![Street Car 393 being raied out of a river](../assets/img/TracklessTrolley.png)
 
 On April 11th, 1936, a trolley route from Harvard to Lechemere was replaced by the first ever Trackless Trolley route. A
 
