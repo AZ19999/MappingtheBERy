@@ -36,6 +36,6 @@ As shown above, general searches yield thousands of results which gives the site
 
 When it came to focusing on specific events, the use of boolean operators proved to be the most useful. It allowed me to take general terms like subway, train, and bus and frame them specifically for Boston or one of the transportation companies. Another thing was properly utilizing filters to narrow down results even more. Specifically looking for articles 
 
-![Sentiment Analysis showing related articles](img/Related.png)
+![Sentiment Analysis showing related articles](assets/img/Related.png)
 
 It was also helpful to be able to see specific articles that are referenced for the sentiment analysis as that allowed me to check to make sure that the articles being analyzed were on topic and not about completely unrelated things. The lower amount of articles per search also let me check to specific ones so I could get some more specific insight into where some of the sentiment analysis data came from.
