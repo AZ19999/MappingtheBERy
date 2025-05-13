@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Ælfric Online"
 authors:
-  - family-names: Hockema
-    given-names: Chase
+  - family-names: Zhu
+    given-names: Alexander Zhu
 abstract: "Jekyll site for the Ælfric Online Project @ Boston College"
 version: 0.0.1
 date-released: "2024-4-9"

@@ -32,7 +32,7 @@ As shown above, general searches yield thousands of results which gives the site
 
 ## Refining the search
 
-![More Focused ProQuest Datasets](img/FocusedProQuest.png)
+![More Focused ProQuest Datasets](../img/FocusedProQuest.png)
 
 When it came to focusing on specific events, the use of boolean operators proved to be the most useful. It allowed me to take general terms like subway, train, and bus and frame them specifically for Boston or one of the transportation companies. Another thing was properly utilizing filters to narrow down results even more. Specifically looking for articles 
 
