@@ -5,12 +5,10 @@ permalink: scholarship
 show-title: true
 ---
 
-The first 
+Most of the historical data I gathered for this project came from records contained in archives as well as publicly available data provided by the MBTA itself. The archives do a good job of categorizing and tagging items that are relevant, but nothing brings it together. To my knowledge, there isn't a prexisting project that tries to combine mapping and sentiment analysis using data like this.
 
-Most of the historical data I gathered for this project came from records contained in archives as well as publicly available data provided by the MBTA itself.
+Stephen De Riel's 1850s US train map comes from a website called [Railroads and the Making of Modern America](https://railroads.unl.edu/resources/) which functions as a repository for historical GIS data of United States railroads, but unfortunately does not contain data that is relevant to the time period I was focusing on.
 
+I was also recommended a [Google Maps Creation](https://youtu.be/2_ntIF4kdWA?si=y82QQkxeA5s-5tTX) of the old streetcar lines by Stephen, but he states that "it's not cited very well."
 
-You should make sure to investigate..
-
-1. Whatever important *traditional* (non-digital) work has been done on your subject. Because you will want to consider how your project impacts scholarship.
-2. Whatever important *digital* work has been done. If you are doing a digital text analysis of Dickens... has Dickens ever been analyzed using text analysis before? What about other authors of his era? Look for other existing digital work that is relevant, even indirectly.
+There are youtube channels like [Trains are Awesome](https://www.youtube.com/@Thom-TRA) who document train history in a more casual or enthusiast manner. Research is done, but is also not necessarily cited the best, but knowledge of and passion for the subject is demonstrated well.
