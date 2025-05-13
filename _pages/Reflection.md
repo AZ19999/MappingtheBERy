@@ -22,21 +22,27 @@ Those two projects set me on the path to here. I had done tidbits of my main rou
 ---
 
 ## Research
-Research proved to be rather simple. I fortunately had help from the same Burns Librarian who helped me out last semester, Marta Crilly. She was able to provide me with many archived documents including maps, route numbers, and even a lot of photos which all gave insight into how I would setup this project. Going online also helped given that there are many archives including City of Boston and Northeastern who also have documentation on MBTA History, all of which was readily available. 
+Research proved to be rather simple. I fortunately had help from the same Burns Librarian who helped me out last semester, Marta Crilly. She was able to provide me with many archived documents including maps, route numbers, and even a lot of photos which all gave insight into how I would setup this project. Going online also helped given that there are many archives including City of Boston and Northeastern who also have documentation on MBTA History, all of which was readily available. This gave me a really strong foundation to start from when it came to doing the project.
 
 ---
 
 ## Mapping
-Having already used ARCGIS for my previous MBTA related project, I was already familiar with using it to setup maps. The process was pretty smooth and refining my points became a pretty simple thing to work on while ProQuest TDM was processing datasets. One thing that became very interesting was to decide how I would handle maps disagreeing on points. There was a chance that it was due to not exact scaling on the original map making the rectified version slightly off, but it was something I considered.
+Having already used ARCGIS for my previous MBTA related project, I was already familiar with using it to setup maps. The process was pretty smooth and refining my points became a pretty simple thing to work on while ProQuest TDM was processing datasets. One thing that became very interesting was to decide how I would handle maps disagreeing on points. There was a chance that it was due to not exact scaling on the original map making the rectified version slightly off, but it was something I considered. What really helped was the ability to reference the actual GPS map on ArcGIS as well as the books actually saying where all of the stations were. It 
 
 ---
 
 ## Sentiment Analysis
-This was admittedly the most unfamiliar part of the process for me. I had never done any work with Sentiment analysis or super specific text mining coming into the project so this was definitely the most interesting and difficult aspect of the project. Almost immediately, there were two limitations that I ran into with ProQuest. The first was that I would only be limited to 10 datasets at a time. This meant that as I created more throughout the semester, I would have to remove the older ones to make space. The second was a limitation of only having 10,000 documents per set. This wasn't a huge issue, many of my searches yielded sets that were smalle enough, but it is something to note.
+This was admittedly the most unfamiliar part of the process for me. I had never done any work with Sentiment analysis or super specific text mining coming into the project so this was definitely the most interesting and difficult aspect of the project. Almost immediately, there were two limitations that I ran into with ProQuest. The first was that I would only be limited to 10 datasets at a time. This meant that as I created more throughout the semester, I would have to remove the older ones to make space. The second was a limitation of only having 10,000 documents per set. This wasn't a huge issue, many of my searches yielded sets that were small enough, but it is something to note.
 
 ![A 404 result on a ProQuest TDM Sentiment Analysis page](../assets/img/404ProQuest.png)
 
+I also had some issues come up with visualization. On many occasions, I would come to a finished data set only to be met with a 404 error and no data. I would give the dataset a few hours in case there was some additional processing, but every data set that looked like the above had to either be reran or scrapped. I am unsure of what causes this because similar or same keywords in different searches would not have this error. 
+
 ![A sentiment analysis graph showing data pulled from an unrelated article](../assets/img/Unrelated.png)
+
+Another thing that came up were unrelated articles showing up in sentiment analysis even after restricting search parameters to include only Boston based publications. Yet, here you see an article from Illinois show up in a search with just the term "Boston Elevated Railway."
+
+Navigating these challenges weren't the end of the world. Once I figured out how to better input keywords and set filters, a lot of these issues went away. The main issue was having to rerun searches with only being able to have 10 running at a time. The limitation plus the time it took slowed down my ability to adjust my filters and topics. Despite that, the tool was still useful in pointing me in the right direction as someone who was unfamiliar with how to do proper sentiment analysis.
 
 ---
 

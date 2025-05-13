@@ -7,15 +7,27 @@ show-title: true
 
 # Results of Sentiment Analysis
 
+## Overall
+
+![Overall Sentiment of West End and BERy Over their existence](../assets/img/OverallSentiment.png)
+
+The general consensus is seems to be that despite some pain points and accompanying anger throughout the system's lifespan, it was an overall positive force for the City of Boston. In a way, it remains that way today. Despite the last few years of low budget, long delays, and extended shutdowns. The system continues to improve and faciliate easy transit to anywhere in Boston. The system's purpose is to make travelling easy, convenient, and cheap. The opinions of the newspapers and magazines seem to agree.
+
+---
+
 ## Consolidation
 
 ![Henry Melville Whitney, President of the West End Street Company](../assets/img/HenryMelvilleWhitney.png)
 
 The first iteration of a unified public transport system in Boston was the West End Street Railway. A charter formed in the 1880s to provide service to parts of Western Boston and Brookline. They were formed at a time when four major railroads: Metropolitan, Cambridge, Consolidated, and South Boston each controlled a major corner of Boston. Instead of attempting to work within the pre-existing network of companies Henry Melville Whitney, president of the company at the time, set out to purchase controlling shares in all major rail companies operating in Boston. In November 1887, West End Street Railway would consolidate all of the streetcar and railroads in Boston under their company. This made them the largest Railroad company in the United States at the time operating over 200 miles of track across all of Boston.
 
-![Section of West End Street History book discussing smaller companies that became part of West End](../assets/img/WestEndIndividual.png)
+![Sentiment Analysis of Consolidation](../assets/img/ConsolidationSentiment.png)
 
-Initial public reaction to consolidation to the consolidated company was mixed. Detractors raised concerns that it would set the stage for a monopoly. Proponents, however, argued that it ended the inefficiencies of competing railways, which were blamed for high levels of congestion and blockades on Boston's streets, and improving service as a result.[10] In remarks to stockholders shortly after the merger, Whitney defended consolidation, saying, "the blockades occurring on the principal thoroughfares" in Boston had reached the point of requiring a remedy, and that "if [the West End] had not taken hold of this matter the city would surely have done something [instead].
+There were discussions of initial public reaction being mixed. People were concerned that this move would create a molopoly and they were technically right. West End owning all of the rail within the city of Boston would allow them full control.
+
+![Section of West End book discussing public reactions](../assets/img/SentimentWestEnd.png)
+
+A lot of voices were raised in favor of the move. A lot of benefits came with having a unified body operate the railroads and public transportation. There wouldn't be a bunch of different competing companies, forcing passengers to transfer constantly between different companies. It would also improve service too since there was one unifying body which could direct the flow of people throughout the city. Whitney himself believed it was an inevitability saying, "If [the West End] had not taken hold of this matter the city would surely have done something." Given what was seen above, the public had some mixed feelings, but proved to prefer it in the long run.
 
 ---
 
@@ -23,30 +35,20 @@ Initial public reaction to consolidation to the consolidated company was mixed. 
 
 ![Street Car 393 being raied out of a river](../assets/img/StreetCar393.png)
 
-Street Car 46 refers to the Summer Street Bridge Disaster which occured on November 7, 1916. Street Car #393, operated by the Boston Elevated Railway, was 
+The title Street Car 46 refers to the Summer Street Bridge Disaster which occured on November 7, 1916. Street Car #393, operated by the Boston Elevated Railway, plunged into the Fort Point Channel due to the motorman not being aware of an open drawbridge.  The motorman, Gerald Walsh, failed to notice the open bridge until it was too late. It should be noted that Walsh and his conductor were filling in for the route. They had a lack of experience driving the route, but were familiar with the area. Despite attempting to brake, the streetcar skidded forward and plunged into the channel. While Walsh and some passengers managed to escape, the majority were trapped inside the submerged vehicle. The incident led to safety reforms, including stricter regulations for streetcars approaching drawbridges. The tragedy remains a significant moment in Boston’s history, highlighting the dangers of early public transportation and the need for improved infrastructure.
 
-The Summer Street Bridge disaster occurred on November 7, 1916, in Boston, Massachusetts, when a streetcar carrying passengers plunged into Fort Point Channel due to an open drawbridge. The accident happened around 5:25 p.m., as a Boston Elevated Railway streetcar failed to stop in time and crashed through the bridge’s safety gates, falling into the cold waters below. Tragically, 46 people lost their lives, making it the deadliest transit disaster in Boston’s history at the time.
+![Street Car 4 Sentiment Analysis](../assets/img/46Sentiment.png)
 
-The bridge, a retractile structure, had two sliding sections that moved to allow ships to pass. On that evening, the inbound section was fully open when the streetcar approached. The motorman, Gerald Walsh, failed to notice the open bridge until it was too late. It should be noted that Walsh and his fellow conductor had never  Despite attempting to brake, the streetcar skidded forward and plunged into the channel. While Walsh and some passengers managed to escape, the majority were trapped inside the submerged vehicle.
-
-Car #393 began an inbound run from City Point with motorman Gerald Walsh at the controls. The car was an extra, operated to fill a gap between scheduled service. Walsh had not worked the City Point route before, nor had the conductor George McKeon, but both were familiar with the area
-
-The incident led to safety reforms, including stricter regulations for streetcars approaching drawbridges. The tragedy remains a significant moment in Boston’s history, highlighting the dangers of early public transportation and the need for improved infrastructure.
-
-The disaster was the first major accident involving the BERy.[3] It remained the worst in Boston for many years; the more famous Boston Molasses Disaster in 1919 had less than half the fatalities. It was only surpassed in 1942, when the Cocoanut Grove fire killed nearly 500 people.[2]
-
-Car #393 was returned to service but most operators refused to run it; it was converted to a work car and later scrapped. The streetcar route was converted to bus on June 20, 1953. After several reroutings between 1968 and 2005, the modern MBTA route 7 bus follows largely the same route as the streetcar involved in the disaster
+The incident remained one of the worst incidents in Boston for many years with 46 of the 60 passsengers dying which is where the 46 comes from. The incident was so bad that when Street Car #393 returned to service, many motormen would refuse to pilot it. The incident remained so influential that an article in 2016 brings it back up as "the tragedy that Boston Forgot." Even though Street Car #393 was eventually scrapped and replaced by a bus, the sentiment against that incident still remains.
 
 ---
 
 ## The move to Trackless Trolleys
 
-![Street Car 393 being raied out of a river](../assets/img/TracklessTrolley.png)
+![A Modern Trackless Trolley](../assets/img/TracklessTrolley.png)
 
-On April 11th, 1936, a trolley route from Harvard to Lechemere was replaced by the first ever Trackless Trolley route. A
+On April 11th, 1936, a trolley route from Harvard to Lechemere was replaced by the first ever Trackless Trolley route. A trackless trolley, also known as a trolleybus, was an electric-powered transit vehicle used by the Boston Elevated Railway (BERy) in the mid-20th century. Unlike traditional streetcars, trackless trolleys operated without rails, drawing electricity from overhead wires via dual trolley poles. This system provided the flexibility of a bus while maintaining the environmental benefits of electric propulsion.
 
-A trackless trolley, also known as a trolleybus, was an electric-powered transit vehicle used by the Boston Elevated Railway (BERy) in the mid-20th century. Unlike traditional streetcars, trackless trolleys operated without rails, drawing electricity from overhead wires via dual trolley poles. This system provided the flexibility of a bus while maintaining the environmental benefits of electric propulsion.
+![Sentiment Analysis of Trackless Trolley](../assets/img/TracklessTrolleySentiment.png)
 
-Boston introduced trackless trolleys in the 1930s and 1940s, converting several streetcar lines to this mode of transportation. These vehicles were particularly useful in areas where laying tracks was impractical or costly. They were known for their smooth acceleration, quiet operation, and reduced emissions compared to gasoline-powered buses. The Pullman-Standard 8361, one of Boston’s trackless trolleys, was preserved at the Seashore Trolley Museum, showcasing the city's transit history.
-
-Trackless trolleys remained a staple of Boston’s transit system for decades, serving routes in Cambridge, Watertown, and Belmont before being phased out in favor of modern buses. Their legacy continues through historical preservation efforts and discussions about sustainable urban transit.
+Throughout the 1930s and 1940s, Boston converted several streetcar lines to this mode of transportation. These vehicles were particularly useful in areas where laying tracks was impractical or costly. They were known for their smooth acceleration, quiet operation, and reduced emissions compared to gasoline-powered buses. Trackless trolleys would continue to be used until they were phased out in favor of modern buses. The benefits seem pretty clear in public opinion. Despite some anger, the overall trend seems to say that the decision to switch to Trackless Trolleys proved to be more good than bad. Many of the angry articles cite scheduling delays as the primary complaint as well as the trolleys adding to traffic since they would drive along the streets compared to streetcars and subways.

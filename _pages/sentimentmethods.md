@@ -26,6 +26,8 @@ Firstly, to get a general timeline of sentiment analysis. I set my search to jus
 
 ![Initial Database testing of ProQuest](../assets/img/InitialProQuest.png)
 
+As shown above, general searches yield thousands of results which gives the site a lot of data to crunch.
+
 ---
 
 ## Refining the search
