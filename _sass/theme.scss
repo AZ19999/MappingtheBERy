@@ -243,17 +243,13 @@ p.bibliography a {
     right: 0px;
     top: 0px;
 }
-  
-.mobile-nav-dropdown-button:hover .nav-dropdown-content {
+
+.nav-dropdown-content.show {
     display: flex;
 }
 
 .nav-dropdown-content a, .nav-dropdown-content a:visited {
     color: $mobile-dropdown-menu-text-color !important;
-}
-
-.nav-dropdown-content a:hover {
-    color: $link-dropdown-hover-color !important;
 }
 
 // deal with dropdown menus inside the nav dropdown menu
