@@ -24,7 +24,7 @@ nav-menu:
       - title: Sentiment Analysis
         link: sentimentmethods
   - title: Reflection
-    link: Reflection
+    link: reflection
   - title: Bibliography
     link: bibliography
 
@@ -32,7 +32,7 @@ nav-menu:
 search-bar: false
 
 hide-footer: false # set to true to hide the footer
-footer-message: Put Your Footer Message Here | CC BY-NC License
+footer-message: Take your next ride on the T! | CC BY-NC License
 footer-submessage:  By Alexander Zhu, with the Digital Scholarship Group, Boston College
 footer-submessage-link: https://ds.bc.edu
 

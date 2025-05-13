@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Findings
-permalink: findings
+title: Reflection
+permalink: reflection
 show-title: true
 ---
 
