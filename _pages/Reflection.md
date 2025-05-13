@@ -17,7 +17,7 @@ The inspiration for this project is probably the culmination of the last uear of
 
 My other class spent a few sessions on exploring how to map things. I was thinking about my other class at the time and decided to have some fun. The assignment was to use a mapping software to map something. So I chose to map the MBTA blue line since I was the least familiar. I found out a lot of fun facts such as the Blue Line cars being able to switch their power sources from third rail to overhead due to the Blue Line being a frankenstein of other previously built routes.
 
-Those two projects set me on the path to here. I had done tidbits of my main route and a, while somewhat comprehensive, shallow look at the blue line. I wanted to do something a bit bigger and something a little more out of contemporary time since I was already living in it. 
+Those two projects set me on the path to here. I had done tidbits of my main route and a, while somewhat comprehensive, shallow look at the blue line. I wanted to do something a bit bigger and something a little more out of the present day since I was already living in it. 
 
 ---
 
@@ -27,7 +27,7 @@ Research proved to be rather simple. I fortunately had help from the same Burns 
 ---
 
 ## Mapping
-Having already used ARCGIS for my previous MBTA related project, I was already familiar with using it to setup maps. The process was pretty smooth and refining my points became a pretty simple thing to work on while ProQuest TDM was processing datasets. One thing that became very interesting was to decide how I would handle maps disagreeing on points. There was a chance that it was due to not exact scaling on the original map making the rectified version slightly off, but it was something I considered. What really helped was the ability to reference the actual GPS map on ArcGIS as well as the books actually saying where all of the stations were. It 
+Having already used ARCGIS for my previous MBTA related project, I was already familiar with using it to setup maps. The process was pretty smooth and refining my points became a pretty simple thing to work on while ProQuest TDM was processing datasets. One thing that became very interesting was to decide how I would handle maps disagreeing on points. There was a chance that it was due to not exact scaling on the original map making the rectified version slightly off, but it was something I considered. What really helped was the ability to reference the actual GPS map on ArcGIS as well as the books actually saying where all of the stations were. It allowed me to make the final call on where to place points in a way that was super intuitive and better than just trying to guess.
 
 ---
 
@@ -54,4 +54,4 @@ Another thing I want to do is touch up some of the newer layers added within the
 
 The last thing would be to integrate the map with this website better. Currently, it seems to be in whatever the last state I saved the map in. I would love for it to be more interactive for the user as they currently cannot change what layers are visible or see how the original maps are laid on top of the GPS one. Whether that's something possible with ArcGIS or another software, it is on my to-do list.
 
-In the end, I am glad that I got the chance to do this project. I don't want this to be the last of it. These last two years of being a commuter student has really made me consider more deeply the type of public transportation available to people in cities. It was really awesome to get the chance to 
+In the end, I am glad that I got the chance to do this project. I don't want this to be the last of it. These last two years of being a commuter student has really made me consider more deeply the type of public transportation available to people in cities. It was really awesome to get the chance to work on this and I will continue to improve it in the future.
