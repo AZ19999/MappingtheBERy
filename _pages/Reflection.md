@@ -9,11 +9,11 @@ show-title: true
 
 ## Introduction
 
-![Archives in Action Final Project: My MBTA](../assets/img/MyMBTA.jpg)
+![Archives in Action Final Project: My MBTA](/img/MyMBTA.jpg)
 
 The inspiration for this project is probably the culmination of the last uear of academic work that I've done at Boston College. When I was first accepted into the English Masters program, I hoped to pursue studies in Digital Humanities and this project is the last part of this stretch of that journey. As a student who lives not on campus, the T has been a subtle, but important part of my school life. I ride it to school everyday and I've never really given it much thought. Last year, during the particular rough red line shutdowns as the new MBTA management tries to bring the T out of a state of disrepair and neglect, I began to think more about what being a rider of the T meant. This led to me creating[My MBTA](https://storymaps.arcgis.com/stories/5bdd9dba42cb458e9ac12d18d44df000) which documented the history of some of the crucial stations during my commute to Boston College.
 
-![Old Google Maps Project About the history of the Blue Line](../assets/img/BlueLineOld.jpg)
+![Old Google Maps Project About the history of the Blue Line](/img/BlueLineOld.jpg)
 
 My other class spent a few sessions on exploring how to map things. I was thinking about my other class at the time and decided to have some fun. The assignment was to use a mapping software to map something. So I chose to map the MBTA blue line since I was the least familiar. I found out a lot of fun facts such as the Blue Line cars being able to switch their power sources from third rail to overhead due to the Blue Line being a frankenstein of other previously built routes.
 
@@ -34,11 +34,11 @@ Having already used ARCGIS for my previous MBTA related project, I was already f
 ## Sentiment Analysis
 This was admittedly the most unfamiliar part of the process for me. I had never done any work with Sentiment analysis or super specific text mining coming into the project so this was definitely the most interesting and difficult aspect of the project. Almost immediately, there were two limitations that I ran into with ProQuest. The first was that I would only be limited to 10 datasets at a time. This meant that as I created more throughout the semester, I would have to remove the older ones to make space. The second was a limitation of only having 10,000 documents per set. This wasn't a huge issue, many of my searches yielded sets that were small enough, but it is something to note.
 
-![A 404 result on a ProQuest TDM Sentiment Analysis page](../assets/img/404ProQuest.png)
+![A 404 result on a ProQuest TDM Sentiment Analysis page](/img/404ProQuest.png)
 
 I also had some issues come up with visualization. On many occasions, I would come to a finished data set only to be met with a 404 error and no data. I would give the dataset a few hours in case there was some additional processing, but every data set that looked like the above had to either be reran or scrapped. I am unsure of what causes this because similar or same keywords in different searches would not have this error. 
 
-![A sentiment analysis graph showing data pulled from an unrelated article](../assets/img/Unrelated.png)
+![A sentiment analysis graph showing data pulled from an unrelated article](/img/Unrelated.png)
 
 Another thing that came up were unrelated articles showing up in sentiment analysis even after restricting search parameters to include only Boston based publications. Yet, here you see an article from Illinois show up in a search with just the term "Boston Elevated Railway."
 
