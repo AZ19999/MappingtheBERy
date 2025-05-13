@@ -26,7 +26,7 @@ Firstly, to get a general timeline of sentiment analysis. I set my search to jus
 
 ![Initial Database testing of ProQuest](../assets/img/InitialProQuest.png)
 
-As shown above, general searches yield thousands of results which gives the site a lot of data to crunch. It also let me see generally how things would look. 
+As shown above, general searches yield thousands of results which gives the site a lot of data to crunch. It also let me see generally how things would look, being able to see things take shape while also being able to guess how they would look when I took a deeper dive into my specific events.
 
 ---
 
@@ -38,4 +38,4 @@ When it came to focusing on specific events, the use of boolean operators proved
 
 ![Sentiment Analysis showing related articles](../assets/img/Related.png)
 
-It was also helpful to be able to see specific articles that are referenced for the sentiment analysis as that allowed me to check to make sure that the articles being analyzed were on topic and not about completely unrelated things.
+It was also helpful to be able to see specific articles that are referenced for the sentiment analysis as that allowed me to check to make sure that the articles being analyzed were on topic and not about completely unrelated things. The lower amount of articles per search also let me check to specific ones so I could get some more specific insight into where some of the sentiment analysis data came from.

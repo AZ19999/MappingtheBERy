@@ -14,7 +14,7 @@ show-title: true
 [Street Car 46 Article](https://www.bostonglobe.com/metro/2016/10/29/trolleydisaster/c451CX1qx9SpPo5tJAupFP/story.html)
 
 The Burns Library at Boston College provided:
-- All maps and pictures
+- All maps used to create the ArcGIS Map
 - [Boston's Main Line El](https://bc.primo.exlibrisgroup.com/permalink/01BC_INST/1nm9l4s/alma9998200500001021)
 - [Streetcar Lines of the Hub](https://bc.primo.exlibrisgroup.com/permalink/01BC_INST/1nm9l4s/alma99108939500001021)   
 - [Change at Park Street Under](https://bc.primo.exlibrisgroup.com/permalink/01BC_INST/1nm9l4s/alma9998672100001021)
